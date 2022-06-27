@@ -19,16 +19,16 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['923048080917']
+global.owner = ['923048080917','6285775549445']
 global.premium = ['6285775549445']
 global.ownernomer = '923048080917'
 global.ownername = '🐦Fsayang ☕Phya'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NFsayangPhyawInc.'
+global.botname = 'Fsayang Phya'
+global.footer = '©FsayangPhyawInc.'
 global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.region = 'Pakistan, Indonesia, Purwokarto'
+global.sc = 'https://github.com/faheem110'
+global.myweb = 'https://youtube.com'
 global.packname = 'Fsayang ☕Phya'
 global.author = '🐦 Fsayang phya ☕'
 global.sessionName = 'session'
